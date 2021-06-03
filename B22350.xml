@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions from the honourable House of Commons assembled in Parliament to the committee in Kent whose names are herein mentioned : with the answer of the justices of peace to the said committee : likewise certain instructions from the said county to Mr. Augustine Skynner.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22350</idno><idno type="EEBO-CITATION">12249033</idno>
+  <idno type="VID">197473</idno>
+  <idno type="EEBO-PROQUEST">2240953932</idno>
+  
+            <idno type="STC">Wing E2590</idno>
+            <idno type="OCLC">12249033</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E111, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions from the honourable House of Commons assembled in Parliament to the committee in Kent whose names are herein mentioned : with the answer of the justices of peace to the said committee : likewise certain instructions from the said county to Mr. Augustine Skynner.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 13, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Skinner, Augustine, b. 1593 or 4.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Kent (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197473:1"/>
+            <p>Instructions From the Honourable House of Commons Assembled IN PARLIAMENT, TO THE COMMITTEE IN KENT, Whose Names are herein mentioned. With the Answer of the Justices of Peace to the said Committee. Likewise certain Instructions from the said County, to Mr. <hi>Augustine Skynner.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered that this be forthwith Printed:</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Cook,</hi> August 13. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="instructions">
+            <pb facs="tcp:197473:2"/>
+            <pb n="3" facs="tcp:197473:2"/>
+            <div type="order">
+               <opener>WHEREAS</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>He House is credibly inform'd, that some ill-affected persons within the County of <hi>Kent</hi> are now endeavou<g ref="char:EOLhyphen"/>ring to disperse rumors to the scan<g ref="char:EOLhyphen"/>dall of Parliament, and to censure the proceedings against the promo<g ref="char:EOLhyphen"/>ters of the late dangerous Petition; and they have plotted for this purpose to meet at the Assizes, the further to extend their malicious designes; It is ther<g ref="char:EOLhyphen"/>fore thought fit, and Ordered by the said House, That Sir <hi>Edward Hales,</hi> Sir <hi>Henry Hayman,</hi> Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Partherich,</hi> Sir <hi>Tho: Peyton,</hi> Sir <hi>Thomas Wal<g ref="char:EOLhyphen"/>singham,</hi> Sir <hi>Hen: Vane, senior</hi> and <hi>junior,</hi> Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Barnham,</hi> Sir <hi>Peter Wroth,</hi> Sir <hi>Norton Knatchbull,</hi> Sir <hi>Humphrey Tufton,</hi> Sir <hi>Edw. Boyse,</hi> Mr. <hi>Brown,</hi> Mr. <hi>Skynner,</hi> Mr. <hi>Lee,</hi> Sir <hi>Edward Masters,</hi> and Mr. <hi>John Nut,</hi> shall forthwith go down unto the said Assizes, and use all dilligence to prevent such incon<g ref="char:EOLhyphen"/>venience, or any further Attempt that shall be offer<g ref="char:EOLhyphen"/>ed to the prejudice of Parliament, and by all lawfull wayes and means to preserve the said County, not onely in peace amongst themselves, but in a right understanding of the proceedings of Parliament.</p>
+               <closer>
+                  <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="instructions">
+               <pb n="4" facs="tcp:197473:3"/>
+               <head>INSTRVCTIONS to the Committee.</head>
+               <p>YOu shall acquaint the Justices of Peace at the Bench, with the Contents of this Order, and let them know that our Houses tender care, and affecti<g ref="char:EOLhyphen"/>on to the peace of this County, and the Kingdom; They have sent down, with Order and Instructions to use all lawfull means to preserve the said County, not onely in peace amongst themselves, but also in a right understanding of the proceedings of Parlia<g ref="char:EOLhyphen"/>ment, and do not doubt of their proceedings to com<g ref="char:EOLhyphen"/>ply with the House therein.</p>
+               <p>It is desired, according to the Instructions of the House of Commons, That you will give your best aid and assistance to this Committee, in performance of the Commands of the House, expressed in their Order herewith delivered.</p>
+               <p>That to thls end this Committee may be seated at the Bench sutably to their Authority and Trust they represent, and to be ready to perform the commands of the House as occasion shall require.</p>
+            </div>
+            <div type="answer">
+               <pb n="5" facs="tcp:197473:3"/>
+               <head>The Answer of the Justices of Peace.</head>
+               <p>THat the first demand being grounded (as we con<g ref="char:EOLhyphen"/>ceive) upon mis-informations, and in it, a great aspersion laid upon this County, we not knowing any such endeavours as are expressed, it being as we hope, like to continue in secure peace, His Majesties Justices having their authority of the Great Seal of <hi>England,</hi> dare not in the execution of it, joyn with any.</p>
+               <p>That being demanded, this Committee may sit upon the Bench for the performing the commands of the House of Commons unknown to us, they do not know what place may be so sutable to the autho<g ref="char:EOLhyphen"/>rity and Trust they represent, nor that we have power to place any on the Bench, not sent thither by the like authority we sit here.</p>
+            </div>
+            <div type="instructions">
+               <head>Instructions from the County of <hi>Kent,</hi> to Mr. <hi>Augustine Skynner.</hi>
+               </head>
+               <opener>WHEREAS</opener>
+               <p>A Committe from the House of Commons is now sent down to the Assizes upon a credible Infor<g ref="char:EOLhyphen"/>mation (as they say) that something should be done
+<pb n="6" facs="tcp:197473:4"/> at this Assize to the disturbance of the peace of this County; We the Commons of <hi>Kent</hi> require you Master <hi>Augustine Skynner,</hi> as our servant, to certifie to that honorable House, that you found the country in full peace, and that there was no ground for any such Information; and that you desire in our names to know the particular of that Information (which it seems you are ignorant of) and the Informer, that this County may have full reparations in honour against so scandalous an aspersion cast upon them; and that the Informer, of what quality soever, may receive condigne punishment.</p>
+               <p>And that the House of Commons may under<g ref="char:EOLhyphen"/>stand our desires, not onely to preserve the peace of this County (which by Gods blessing, and the help of the good and known Laws of this Kingdom, we are confident we shall maintain) but also of the whole Kingdom, being now in so great a distraction, that every man stands at a maze to see what the event is like to be, and well weighing what a great fire a small spark may kindle, abhorring and detesting the thought of a Civil War: we forthwith require you to offer our humble advice, as faithfull and loyall Subjects to His Majestie, and good Patriots, and lo<g ref="char:EOLhyphen"/>vers of our Country, for setling the distractions of these times, one principall, means to effect it, we con<g ref="char:EOLhyphen"/>ceive will be to give His Majestie full satisfaction in His just desires in these four particulars, <hi>viz.</hi>) In presently leaving the Town of <hi>Hull</hi> in the same state it was before Sir <hi>John Hothams</hi> entrance into it, and delivering His Majestie His own Magazine. Second<g ref="char:EOLhyphen"/>ly,
+<pb n="7" facs="tcp:197473:4"/> in laying aside the <hi>Militia:</hi> untill a good Law may be framed, wherein care may be taken, as well for the Liberty of the Subject, as the defence of the Kingdom. That the Parliament may be ad<g ref="char:EOLhyphen"/>journ'd to an indifferect place, where His sacred Per<g ref="char:EOLhyphen"/>son, and all the Lords and Members of the House of Commons may meet, and treat with honour, safety and freedom. Fourthly, that His Majesties Navie may be immediately restored to Him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
